@@ -1,4 +1,4 @@
-# Windows CMD Commands for Remote Hacking
+# Wazuh configuration as EDR
 <!-- hide -->
 
 > By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/breatheco-de/wazuh-configuration-as-edr/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
