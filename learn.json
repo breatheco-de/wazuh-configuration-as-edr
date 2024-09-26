@@ -1,0 +1,32 @@
+{
+    "language": "bash",
+    "title": {
+        "us": "Wazuh: Installation and Endpoint Configuration for EDR",
+        "es": "Wazuh: Instalación y Configuración de Endpoints para EDR"
+    },
+    "slug": "wazuh-configuration-as-edr",
+    "description": {
+        "us": "Learn how to install Wazuh on a virtual machine, configure Linux endpoints, and simulate threat activities to monitor with Wazuh's EDR (Endpoint Detection and Response) capabilities.",
+        "es": "Aprende cómo instalar Wazuh en una máquina virtual, configurar endpoints Linux, y simular actividades de amenazas para monitorear con las capacidades de EDR (Endpoint Detection and Response) de Wazuh."
+    },
+    "repository": "https://github.com/breatheco-de/wazuh-configuration-as-edr",
+    "duration": 3,
+    "difficulty": "intermediate",
+    "projectType": "tutorial",
+    "bugsLink": "https://github.com/your-repo/issues/new",
+    "skills": [
+        "cybersecurity",
+        "wazuh",
+        "linux",
+        "endpoint-configuration",
+        "threat-monitoring"
+    ],
+    "graded": true,
+
+    "editor": {
+        "version": "3.1.23"
+    },
+    "telemetry": {
+        "batch": "https://breathecode.herokuapp.com/v1/assignment/me/telemetry"
+    }
+}
