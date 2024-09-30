@@ -1,8 +1,8 @@
 {
     "language": "bash",
     "title": {
-        "us": "Wazuh: Installation and Endpoint Configuration for EDR",
-        "es": "Wazuh: Instalación y Configuración de Endpoints para EDR"
+        "us": "Wazuh: Installation and Endpoint Configuration to protect your machines with with this endpoint detection and response agent",
+        "es": "Wazuh: Instalación y Configuración de un EDR para proteger los dispositivos de una empresa de ataques de seguridad"
     },
     "slug": "wazuh-configuration-as-edr",
     "description": {
@@ -14,12 +14,13 @@
     "difficulty": "intermediate",
     "projectType": "tutorial",
     "bugsLink": "https://github.com/your-repo/issues/new",
-    "skills": [
+    "technologies": [
         "cybersecurity",
         "wazuh",
         "linux",
-        "endpoint-configuration",
-        "threat-monitoring"
+        "pentesting",
+        "siem",
+        "edr"
     ],
     "graded": true,
 
