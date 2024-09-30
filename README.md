@@ -1,5 +1,5 @@
-# Wazuh configuration as EDR
 <!-- hide -->
+# Wazuh configuration as EDR
 
 > By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/breatheco-de/wazuh-configuration-as-edr/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
@@ -129,6 +129,8 @@ After performing these actions, you can check the Wazuh dashboard under the `Thr
 > ⚠ The Wazuh dashboard updates automatically every 15 minutes. If you don’t see the changes reflected immediately, wait until the next automatic update. If after 15 minutes you still don’t see the changes, check the agent logs to ensure there are no errors in the configuration or in the connection to the server.
 
 You’re all set, you’ve successfully installed Wazuh and used it as an EDR! 😎
+
+<!-- hide -->
 
 ## Contributors
 
