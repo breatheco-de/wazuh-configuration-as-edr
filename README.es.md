@@ -7,7 +7,6 @@
 [![build by developers](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 *Estas instrucciones estan [disponibles en español](https://github.com/breatheco-de/wazuh-configuration-as-edr/blob/main/README.es.md)*
-<!-- endhide -->
 
 ### Antes de empezar...
 
