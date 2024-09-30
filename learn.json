@@ -9,7 +9,7 @@
         "us": "Learn how to install Wazuh on a virtual machine, configure Linux endpoints, and simulate threat activities to monitor with Wazuh's EDR (Endpoint Detection and Response) capabilities.",
         "es": "Aprende cómo instalar Wazuh en una máquina virtual, configurar endpoints Linux, y simular actividades de amenazas para monitorear con las capacidades de EDR (Endpoint Detection and Response) de Wazuh."
     },
-    "preview": https://github.com/breatheco-de/wazuh-configuration-as-edr/blob/main/assets/preview.jpg?raw=true",
+    "preview": "https://github.com/breatheco-de/wazuh-configuration-as-edr/blob/main/assets/preview.jpg?raw=true",
     "repository": "https://github.com/breatheco-de/wazuh-configuration-as-edr",
     "duration": 3,
     "difficulty": "intermediate",
