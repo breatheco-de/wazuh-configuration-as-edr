@@ -1,5 +1,5 @@
-# Configuración de wazuh como EDR
 <!-- hide -->
+# Configuración de wazuh como EDR
 
 > By [@rosinni](https://github.com/rosinni) and [other contributors](https://github.com/breatheco-de/wazuh-configuration-as-edr/graphs/contributors) at [4Geeks Academy](https://4geeksacademy.co/)
 
