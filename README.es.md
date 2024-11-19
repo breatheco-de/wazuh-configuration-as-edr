@@ -14,6 +14,8 @@
 
 <!-- endhide -->
 
+<!-- howtostart -->
+
 ## 🌱 ¿Cómo empezar este proyecto?
 
 Este ejercicio comprende tres etapas:
@@ -21,6 +23,8 @@ Este ejercicio comprende tres etapas:
 - Descargar e instalar Wazuh desde una máquina virtual (según la [documentación oficial](https://documentation.wazuh.com/current/index.html)).
 - Descargar e instalar el agente de Wazuh en otra máquina/endpoint (en este caso, usaremos Kali Linux).
 - Evaluar o monitorear el EDR (Endpoint Detection and Response) de la máquina Kali en el dashboard de Wazuh.
+
+<!-- endhowtostart -->
 
 ## 📝 Instrucciones
 
