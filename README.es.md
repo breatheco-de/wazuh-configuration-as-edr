@@ -14,7 +14,7 @@
 
 <!-- endhide -->
 
-<!-- howtostart -->
+<onlyfor saas="true" withBanner="true">
 
 ## 🌱 ¿Cómo empezar este proyecto?
 
@@ -24,7 +24,7 @@ Este ejercicio comprende tres etapas:
 - Descargar e instalar el agente de Wazuh en otra máquina/endpoint (en este caso, usaremos Kali Linux).
 - Evaluar o monitorear el EDR (Endpoint Detection and Response) de la máquina Kali en el dashboard de Wazuh.
 
-<!-- endhowtostart -->
+</onlyfor>
 
 ## 📝 Instrucciones
 
@@ -139,6 +139,7 @@ Después de realizar estas acciones, puedes revisar el dashboard de Wazuh en la 
 > ⚠ El panel de Wazuh se actualiza automáticamente cada 15 minutos. Si no ves reflejados los cambios inmediatamente, espera hasta la próxima actualización automática. Si después de 15 minutos no ves los cambios reflejados, revisa los logs del agente para asegurarte de que no haya errores en la configuración o en la conexión al servidor.
 
 ¡Listo, lograste instalar wazuh y usarlo como EDR!😎
+
 <!-- hide -->
 
 ## Colaboradores
