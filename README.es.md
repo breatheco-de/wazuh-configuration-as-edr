@@ -14,7 +14,7 @@
 
 <!-- endhide -->
 
-<onlyfor saas="true" withBanner="true">
+<onlyfor saas="true" withBanner="false">
 
 ## 🌱 ¿Cómo empezar este proyecto?
 
