@@ -21,5 +21,8 @@
         "pentesting",
         "siem",
         "edr"
-    ]
+    ],
+    "delivery": {
+		"formats": ["no_delivery"]
+	}
 }
