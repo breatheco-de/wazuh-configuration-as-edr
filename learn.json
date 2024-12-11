@@ -12,6 +12,7 @@
     "preview": "https://github.com/breatheco-de/wazuh-configuration-as-edr/blob/main/assets/preview.jpg?raw=true",
     "repository": "https://github.com/breatheco-de/wazuh-configuration-as-edr",
     "duration": 3,
+    "projectType": "project",
     "difficulty": "intermediate",
     "bugsLink": "https://github.com/your-repo/issues/new",
     "technologies": [
