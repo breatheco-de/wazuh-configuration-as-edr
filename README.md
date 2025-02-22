@@ -13,8 +13,6 @@
 > We need you! These exercises are created and maintained in collaboration with people like you. If you find any errors or typos, please contribute and/or report them.
 <!-- endhide -->
 
-<onlyfor saas="false" withBanner="false">
-
 ## 🌱 How to Start This Project
 
 This exercise comprises three stages:
@@ -22,8 +20,6 @@ This exercise comprises three stages:
 - Download and install Wazuh from a virtual machine (according to [the official documentation](https://documentation.wazuh.com/current/index.html)).
 - Download and install the Wazuh agent on another machine/endpoint (in this case, we will use Kali Linux).
 - Evaluate or monitor the EDR (Endpoint Detection and Response) of the Kali machine on the Wazuh dashboard.
-
-</onlyfor>
 
 ## 📝 Instructions
 
