@@ -7,11 +7,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/4geeksacademy?style=social&logo=twitter)](https://twitter.com/4geeksacademy)
 
 *These instructions are also [available in Spanish](https://github.com/breatheco-de/wazuh-configuration-as-edr/blob/main/README.es.md)*
-<!-- endhide -->
 
 ### Before you start...
 
 > We need you! These exercises are created and maintained in collaboration with people like you. If you find any errors or typos, please contribute and/or report them.
+<!-- endhide -->
 
 ## 🌱 How to Start This Project
 
